@@ -1,0 +1,32 @@
+
+
+body {   
+    background: linear-gradient(to left,#011b38, #fff, #011b38) !important;    
+    margin:0;
+    min-height: 100vh;
+    display:grid;
+    grid-template-rows: auto 1fr auto;
+}
+
+
+
+
+label{
+    color:black;
+    font-size:16px;
+    font-family:cursive;
+}
+
+form h1 {
+    color:black;
+    font-family:cursive;
+}
+
+form {
+    margin-left:39%;
+    margin-top:10%;    
+}
+
+.button_aligner {
+    display: inline-block;
+}

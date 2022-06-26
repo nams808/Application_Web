@@ -1,0 +1,28 @@
+
+  
+
+.icone_you {
+  color:red;
+}
+
+.icone_what {
+  color: green;
+}
+
+.icone_in {
+  color: rgb(67, 163, 228);
+}
+
+.navbar-nav p {
+  color:black !important;
+  padding-top:20px !important;
+}
+
+.taille {
+  height:40px !important;
+}
+
+.navbar-nav a {
+  padding-top: 20px !important;
+}
+
